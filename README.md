@@ -3,7 +3,6 @@
 🧪 Medical research scientist turned programmer keen on building accessible and responsive websites via full-stack development. With a side interest in researching how machine learning can be used to analyse or interpret medical and/or drug data and effective communcation of scientific topics to the public.
 
 ### 📋 Current project
-
 🖱️ Simple point and click game in React + Typescript
 
 ### 📖 Learning
@@ -17,8 +16,8 @@
 - Typescript, Vue, NestJs, Websockets: [pong website with users, leaderboard and chat](https://github.com/MichelleJiam/transcendence)
 - Javascript, React: [wordle](https://github.com/NHariman/CODAMxTOMTOM-wordle-sandbox)
 
-### 📝 Notable projects
-- [LDA model usage for exploratory research, presented at the Benelux Conference on Artificial Intelligence 2018](https://github.com/NHariman/LDA-model-SCS-2018), published under [Benelux Conference on Artificial Intelligence 2018](https://link.springer.com/chapter/10.1007/978-3-030-31978-6_4).
+### 📝 Notable project
+[LDA model usage for exploratory research, presented at the Benelux Conference on Artificial Intelligence 2018](https://github.com/NHariman/LDA-model-SCS-2018), published under [Benelux Conference on Artificial Intelligence 2018](https://link.springer.com/chapter/10.1007/978-3-030-31978-6_4).
 
 <!--
 **NHariman/nhariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
