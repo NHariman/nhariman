@@ -3,7 +3,7 @@
 🧪 Medical research scientist turned programmer keen on building accessible and responsive websites via full-stack development. With a side interest in researching how machine learning can be used to analyse or interpret medical and/or drug data and effective communcation of scientific topics to the public.
 
 ### 📋 Current project
-🖱️ Simple point and click game in React + Typescript
+🖱️ horse genetics game in React + javascript
 
 ### 📖 Learning
 - Vue 
