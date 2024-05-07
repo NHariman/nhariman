@@ -3,7 +3,7 @@
 🧪 Medical research scientist turned programmer keen on writing maintainable code and projects. With a side interest in researching how machine learning can be used to analyse or interpret medical and/or drug data and effective communication of scientific topics to the public.
 
 ### 📋 Current project
-🖱️ horse genetics game in React + javascript
+🖱️ TBD
 
 ### 📖 Learning
 - Vue 
